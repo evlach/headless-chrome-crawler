@@ -34,7 +34,7 @@
     "robots-parser": "1.0.2"
   },
   "peerDependencies": {
-    "redis": "2.8.0"
+    "redis": "3.1.1"
   },
   "devDependencies": {
     "@commitlint/cli": "7.0.0",
@@ -51,7 +51,7 @@
     "husky": "0.14.3",
     "jest": "23.1.0",
     "mime": "2.3.0",
-    "redis": "2.8.0",
+    "redis": "3.1.1",
     "typescript": "2.7.2"
   },
   "keywords": [
